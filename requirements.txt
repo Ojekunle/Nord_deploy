@@ -4,4 +4,5 @@ sentence-transformers
 torch
 requests
 beautifulsoup4
+openai
 pymupdf  # Optional, for handling PDFs
